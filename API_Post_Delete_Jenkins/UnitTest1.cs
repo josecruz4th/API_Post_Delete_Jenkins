@@ -5,7 +5,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace API_Post_Delete_Jenkins
 {
     [TestClass]
-    public class UnitTest1 : Post_Delete_Classes
+    public class UnitTest1:Post_Delete_Classes
     {
         [TestMethod]
         public void TestMethod1()
