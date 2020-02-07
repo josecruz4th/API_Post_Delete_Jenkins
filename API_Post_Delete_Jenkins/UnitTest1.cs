@@ -1,13 +1,14 @@
 ﻿using System;
 using System.Net;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
 namespace API_Post_Delete_Jenkins
 {
     [TestClass]
     public class UnitTest1:Post_Delete_Classes
     {
-        [TestMethod]
+        [Test]
         public void TestMethod1()
         {
             try
